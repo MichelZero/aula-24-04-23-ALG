@@ -23,3 +23,5 @@ else:
   print("Salário inválido")
 
 print(f"O novo salário do funcionário é: R$ {novo_salario:.2f}") # :.2f = duas casas decimais
+
+print("Fim do programa")
